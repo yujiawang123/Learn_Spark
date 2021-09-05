@@ -9,5 +9,7 @@ class GitTest {
     println("hello")
     println("hello2")
     println("hello2")
+    println("hello git")
+    println("hello git")
   }
 }
