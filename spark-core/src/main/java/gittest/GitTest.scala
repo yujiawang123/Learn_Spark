@@ -7,5 +7,6 @@ package gittest
 class GitTest {
   def main(args: Array[String]): Unit = {
     println("hello")
+    println("world")
   }
 }
