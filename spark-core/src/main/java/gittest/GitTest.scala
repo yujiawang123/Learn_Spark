@@ -12,5 +12,7 @@ class GitTest {
     println("hello master")
     println("push")
     println("push")
+    println("pull")
+    println("pull")
   }
 }
