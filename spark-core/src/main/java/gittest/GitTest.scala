@@ -10,5 +10,7 @@ class GitTest {
     println("hello hot-fix")
     println("hello master")
     println("hello master")
+    println("push")
+    println("push")
   }
 }
